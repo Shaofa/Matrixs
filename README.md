@@ -5,7 +5,7 @@ function        |   matlab              | desciption
 ----------------|-----------------------|---------------------
 m_add           |   C = A + B           | matrix addtion
 m_sub           |   C = A - B           | matrix subtraction
-m_mmul          |   C = A * B           | matrix multiplication
+m_mul           |   C = A * B           | matrix multiplication
 m_inv           |   C = inv(A)          | matrix inverse
 m_trans         |   C = A'              | matrix transpostion
 m_mul_scale     |   C = a * A           | matrix scale mulitplication
